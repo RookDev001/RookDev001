@@ -5,4 +5,4 @@
 - 🔭 Estoy especializandome en  el stack MEAN 
 - 🌱 Programando Front-End en Angular
 - ⚡ También tengo conocimientos en otros lenguajes
--->
+

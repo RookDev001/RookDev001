@@ -15,7 +15,7 @@
 ```javascript
 const yerko = {
     pronouns: "He",
-    askMeAbout: ["Angular", "Stack LAMP", "Software Engineering"],
+    askMeAbout: ["Angular", "typescript", "Software Engineering"],
     technologies: {
         frontEnd: {
             js: ["Angular", "React", "Vue"],

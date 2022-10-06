@@ -6,4 +6,6 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 - 🔭 Estoy especializandome en  el stack MEAN 
 - 🌱 Programando Front-End en Angular
 - ⚡ También tengo conocimientos en otros lenguajes
+   
+   ?style=for-the-badge&logo=appveyor
 

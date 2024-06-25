@@ -1,5 +1,5 @@
 ### 👋 Hola, Soy Yerko | Hi, mi name is Yerko.
-   oy Analista Programador Computacional con una fuerte pasión por el aprendizaje continuo de nuevas tecnologías. Me considero una persona proactiva y comprometida con el conocimiento, siempre buscando aprovechar el tiempo de manera productiva. Soy de nacionalidad chilena y resido actualmente en Santiago.
+   Soy Analista Programador Computacional con una fuerte pasión por el aprendizaje continuo de nuevas tecnologías. Me considero una persona proactiva y comprometida con el conocimiento, siempre buscando aprovechar el tiempo de manera productiva. Soy de nacionalidad chilena y resido actualmente en Santiago.
 
 
 - 🌱 Experiencia en programación Front-End con Angular

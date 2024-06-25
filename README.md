@@ -31,14 +31,6 @@ const yerko = {
 ------------------------------------------------------
 
 
-<p> align="center"
-   <a href="https://github.com/tandpfun/">
-      <img src="https://github.com/tandpfun/icons/Angular-Dark.svg">
-   </a>
-</p>
-
-
-icons/Angular-Dark.svg
 
 
 

@@ -35,7 +35,7 @@ const yerko = {
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-	 <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/lemonstack.cl">
+	 <a style="margin-left: 10px;" href="https://instagram.com/lemonstack.cl" target="_blank">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
           <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/lemonstack.cl">
 			<img style="width:50px; height: 50px;" src="https://img.icons8.com/?size=100&id=nhX8zsseyDoS&format=png&color=000000"></a>

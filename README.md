@@ -19,11 +19,11 @@ const yerko = {
     askMeAbout: ["Angular", "TypeScript", "Software Engineering"],
     technologies: {
         frontEnd: {
-            js: ["Angular", "React", "Vue"],
+            js: ["Angular"],
             css: ["bootstrap", "sass"]
         },
-        backEnd: ["PHP", "Java"],
-        databases: ["MySql", "oracle"],
+        backEnd: ["PHP"],
+        databases: ["Sql Server", "MySql"],
     }
 };
 ```

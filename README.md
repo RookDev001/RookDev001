@@ -33,7 +33,7 @@ const yerko = {
 
 <p> align="center"
    <a href="https://github.com/tandpfun/">
-      <img src="icons/Angular-Dark.svg">
+      <img src="https://github.com/tandpfun/icons/Angular-Dark.svg">
    </a>
 </p>
 

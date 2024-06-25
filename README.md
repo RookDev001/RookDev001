@@ -29,7 +29,7 @@ const yerko = {
 ```
 
 ------------------------------------------------------
-
+<img>icons/Angular-Dark.svg</img>
 
 icons/Angular-Dark.svg
 

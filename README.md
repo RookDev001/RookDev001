@@ -29,6 +29,22 @@ const yerko = {
 ```
 
 ------------------------------------------------------
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,git,cpp,css,discord,docker,express,github,html,java,js,linux,materialui,nginx,mysql,nextjs,nodejs,postman,py,tailwind,ts,vscode,wordpress&perline=14" />
+  </a>
+</p>
+
+
+------------------------------------------------------
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 

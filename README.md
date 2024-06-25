@@ -35,20 +35,18 @@ const yerko = {
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+	 <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/lemonstack.cl">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+          <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/lemonstack.cl">
+			<img style="width:50px; height: 50px;" src="https://img.icons8.com/?size=100&id=nhX8zsseyDoS&format=png&color=000000"></a>
+          <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ye-figueroa/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+          <a style="margin-left: 10px;" target="_blank" href="https://github.com/Alexis0089">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	
+	 
    
-		
-	      /*	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>  */
-    
-		
-      </div>
-
+  </div>
 </p>
 
 

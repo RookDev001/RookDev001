@@ -1,10 +1,10 @@
 ### 👋 Hola, Soy Yerko | Hi, mi name is Yerko.
-   Soy Analista Programador Computacional, titulado del instituto DUOC UC, me gusta mucho estar constantemente aprendiendo nuevas tecnologías. Practicando Stack MEAN aquí, soy muy inquieto con respecto al conocimiento, me gusta aprender y no perder el tiempo. Por último, soy de nacionalidad chilena y actualmente estoy viviendo en Santiago.
+   oy Analista Programador Computacional con una fuerte pasión por el aprendizaje continuo de nuevas tecnologías. Me considero una persona proactiva y comprometida con el conocimiento, siempre buscando aprovechar el tiempo de manera productiva. Soy de nacionalidad chilena y resido actualmente en Santiago.
 
 
-- 🌱 Programando Front-End en Angular
-- ⚡ También tengo conocimientos en otros lenguajes
-- 🔭 Estoy especializandome en Programación y Diseño Web 
+- 🌱 Experiencia en programación Front-End con Angular
+- ⚡ Conocimientos en diversos lenguajes de programación
+- 🔭 Especialización en Programación y Diseño Web
 
 ---------------------------------------------------------
 
@@ -20,7 +20,7 @@ const yerko = {
     technologies: {
         frontEnd: {
             js: ["Angular"],
-            css: ["bootstrap", "sass"]
+            css: ["bootstrap", "Wordpress"]
         },
         backEnd: ["PHP"],
         databases: ["Sql Server", "MySql"],

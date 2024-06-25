@@ -16,13 +16,13 @@
 ```javascript
 const yerko = {
     pronouns: "He",
-    askMeAbout: ["Angular", "TypeScript", "Software Engineering"],
+    askMeAbout: ["Angular", "Software Engineering"],
     technologies: {
         frontEnd: {
             js: ["Angular"],
-            css: ["bootstrap", "Wordpress"]
+            css: ["Angular Material", "bootstrap", "TailWind"]
         },
-        backEnd: ["PHP"],
+        backEnd: ["PHP","TypeScript","Python"],
         databases: ["Sql Server", "MySql"],
     }
 };

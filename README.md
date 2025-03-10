@@ -1,10 +1,10 @@
 ### 👋 Hola, Soy Yerko | Hi, mi name is Yerko.
-   Soy Analista Programador Computacional con una fuerte pasión por el aprendizaje continuo de nuevas tecnologías. Me considero una persona proactiva y comprometida con el conocimiento, siempre buscando aprovechar el tiempo de manera productiva. Soy de nacionalidad chilena y resido actualmente en Santiago.
+   Desarrollador Backend especializado en Python con experiencia en la creación de soluciones escalables y eficientes. Me apasiona el aprendizaje continuo de nuevas tecnologías y la optimización de procesos en el desarrollo de software. Soy una persona proactiva y comprometida con la excelencia en cada proyecto, siempre buscando mejorar mis habilidades y aprovechar el tiempo de manera productiva. Resido en Santiago, Chile, y estoy en constante búsqueda de nuevos desafíos en el mundo del desarrollo backend.
 
 
-- 🌱 Desarrollador Front-End con Angular
+- 🌱 Desarrollador Back Ens con Python
 - ⚡ Conocimientos en diversos lenguajes de programación
-- 🔭 Especialización en Programación y Diseño Web
+- 🔭 Tiendo a utilizar Angular
 
 ---------------------------------------------------------
 
@@ -16,13 +16,13 @@
 ```javascript
 const yerko = {
     pronouns: "He",
-    askMeAbout: ["Angular", "Software Engineering"],
+    askMeAbout: ["Python", "Angular"],
     technologies: {
         frontEnd: {
             js: ["Angular"],
             css: ["Angular Material", "bootstrap", "TailWind"]
         },
-        backEnd: ["PHP","TypeScript","Python"],
+        backEnd: ["Python","TypeScript","PHP"],
         databases: ["Sql Server", "MySql"],
     }
 };

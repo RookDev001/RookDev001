@@ -1,10 +1,10 @@
 ### 👋 Hola, Soy Yerko | Hi, mi name is Yerko.
-   Desarrollador Backend especializado en Python con experiencia en la creación de soluciones escalables y eficientes. Me apasiona el aprendizaje continuo de nuevas tecnologías y la optimización de procesos en el desarrollo de software. Soy una persona proactiva y comprometida con la excelencia en cada proyecto, siempre buscando mejorar mis habilidades y aprovechar el tiempo de manera productiva. Resido en Santiago, Chile, y estoy en constante búsqueda de nuevos desafíos en el mundo del desarrollo backend.
+   Desarrollador Full Stack con experiencia en Laravel, React.js y TypeScript, especializado en la creación de aplicaciones web escalables, seguras y de alto rendimiento. Domino el diseño de APIs RESTful, arquitectura MVC y desarrollo frontend moderno con React + Tailwind CSS. Familiarizado con metodologías ágiles, testing automatizado y despliegue continuo usando Docker y GitHub Actions. Experiencia en integración de servicios externos, autenticación JWT/OAuth y bases de datos MySQL y PostgreSQL. Comprometido con la calidad del código, la escalabilidad y la mejora continua.
 
 
-- 🌱 Desarrollador Back Ens con Python
+- 🌱 Desarrollador Full Stack especializado en Laravel (PHP), React.js, Docker y Tailwind CSS
 - ⚡ Conocimientos en diversos lenguajes de programación
-- 🔭 Tiendo a utilizar Angular
+- 🔭 Tiendo a usar React.js y Angular para desarrollar interfaces modernas y eficientes.
 
 ---------------------------------------------------------
 
@@ -16,14 +16,14 @@
 ```javascript
 const yerko = {
     pronouns: "He",
-    askMeAbout: ["Python", "Angular"],
+    askMeAbout: ["Laravel", "React", "Angular"],
     technologies: {
         frontEnd: {
-            js: ["Angular"],
-            css: ["Angular Material", "bootstrap", "TailWind"]
+            js: ["React", "Angular"],
+            css: ["Angular Material", "bootstrap", "TailWind CSS"]
         },
-        backEnd: ["Python","TypeScript","PHP"],
-        databases: ["Sql Server", "MySql"],
+        backEnd: ["Laravel","PHP"],
+        databases: ["Sql Server", "MySql", "PostgreSQL", "Oracle"],
     }
 };
 ```

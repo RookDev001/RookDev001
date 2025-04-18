@@ -1,5 +1,5 @@
 ### 👋 Hola, Soy Yerko | Hi, mi name is Yerko.
-   Desarrollador Full Stack con experiencia en Laravel, React.js y TypeScript, especializado en la creación de aplicaciones web escalables, seguras y de alto rendimiento. Domino el diseño de APIs RESTful, arquitectura MVC y desarrollo frontend moderno con React + Tailwind CSS. Familiarizado con metodologías ágiles, testing automatizado y despliegue continuo usando Docker y GitHub Actions. Experiencia en integración de servicios externos, autenticación JWT/OAuth y bases de datos MySQL y PostgreSQL. Comprometido con la calidad del código, la escalabilidad y la mejora continua.
+   Desarrollador Full Stack con experiencia en Laravel(PHP), React.js y TypeScript, especializado en la creación de aplicaciones web escalables, seguras y de alto rendimiento. Domino el diseño de APIs RESTful, arquitectura MVC y desarrollo frontend moderno con React + Tailwind CSS. Familiarizado con metodologías ágiles, testing automatizado y despliegue continuo usando Docker y GitHub Actions. Experiencia en integración de servicios externos, autenticación JWT/OAuth y bases de datos MySQL y PostgreSQL. Comprometido con la calidad del código, la escalabilidad y la mejora continua.
 
 
 - 🌱 Desarrollador Full Stack especializado en Laravel (PHP), React.js, Docker y Tailwind CSS

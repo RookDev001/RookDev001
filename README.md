@@ -40,7 +40,7 @@ const yerko = {
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,css,html,js,ts,tailwind,materialui,git,github,wordpress,linux,express,php,nginx,mysql,nextjs,nodejs,postman,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=laravel,angular,css,html,js,ts,tailwind,materialui,git,github,wordpress,linux,express,php,nginx,mysql,nextjs,nodejs,postman,py&perline=14" />
   </a>
 </p>
 

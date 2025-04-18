@@ -16,14 +16,15 @@
 ```javascript
 const yerko = {
     pronouns: "He",
-    askMeAbout: ["Laravel", "React", "Angular"],
+    askMeAbout: ["Laravel", "React.js", "Angular"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular"],
+            js: ["React.js", "Angular"],
             css: ["Angular Material", "bootstrap", "TailWind CSS"]
         },
-        backEnd: ["Laravel","PHP"],
+        backEnd: ["Laravel", "PHP"],
         databases: ["Sql Server", "MySql", "PostgreSQL", "Oracle"],
+	others: ["Next.js", "TypeScript", "Inertia.js", "Vite"]
     }
 };
 ```

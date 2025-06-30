@@ -5,6 +5,10 @@
 - ⚡ Conocimientos en infraestructura escalable y automatización cloud. 
 - 🔭 Enfoque en implementar arquitecturas resilientess y despliegues eficientes.
 
+<div style="text-align: center;">
+  <img src="./assets/imagen.png" alt="Imagen" style="max-width: 100%; height: auto;"/>
+</div>
+
 <div>
 <img align='right' src="https://www.lovethispic.com/uploaded_images/104877-Batman-Robin-Drinking-Coffee.gif?1" width="300" height="270">	
 </div>

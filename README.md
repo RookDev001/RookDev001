@@ -12,6 +12,23 @@
 	  <img src="https://www.lovethispic.com/uploaded_images/104877-Batman-Robin-Drinking-Coffee.gif?1" width="300" style="border: 3px solid #333; border-radius: 10px; box-shadow: 0 4px 8px 		rgba(0,0,0,0.2);" alt="Batman GIF">
 	</div>
 </div>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👋 ¡Hola! Soy [Tu Nombre]</h3>
+      <ul>
+        <li>🌱 DevOps especializado en AWS, Kubernetes, CI/CD y Terraform</li>
+        <li>⚡ Conocimientos en infraestructura escalable y automatización cloud</li>
+        <li>🔭 Enfoque en implementar arquitecturas resilientes y despliegues eficientes</li>
+      </ul>
+      <!-- Agrega más contenido si necesitas -->
+    </td>
+    <td width="40%" valign="top">
+      <img align="right" src="https://www.lovethispic.com/uploaded_images/104877-Batman-Robin-Drinking-Coffee.gif?1" width="100%" alt="Batman DevOps" style="border-radius: 8px;">
+    </td>
+  </tr>
+</table>
 ---------------------------------------------------------
 
 **HABILIDADES**.

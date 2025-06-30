@@ -28,7 +28,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,terraform,jenkins,aws,docker,linux,nginx,redhat,mysql,postgresql,github,laravel,py,php,angular,wordpressgit&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bash,terraform,jenkins,aws,docker,linux,nginx,redhat,mysql,postgresql,laravel,py,php,github,git&perline=14" />
   </a>
 </p>
 

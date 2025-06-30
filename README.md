@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="center">
       <ul>
         <li>🌱 DevOps especializado en AWS, Kubernetes, CI/CD y Terraform</li>
         <li>⚡ Conocimientos en infraestructura escalable y automatización cloud</li>

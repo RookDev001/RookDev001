@@ -7,10 +7,15 @@
 
 <div style="text-align: center;">
   <img src="./assets/imagen.png" alt="Imagen" style="max-width: 100%; height: auto;"/>
+  <img align='right' src="https://www.lovethispic.com/uploaded_images/104877-Batman-Robin-Drinking-Coffee.gif?1" width="300" height="270">	
 </div>
 
 <div>
 <img align='right' src="https://www.lovethispic.com/uploaded_images/104877-Batman-Robin-Drinking-Coffee.gif?1" width="300" height="270">	
+</div>
+
+<div align="center">
+  <img src="https://www.lovethispic.com/uploaded_images/104877-Batman-Robin-Drinking-Coffee.gif?1" width="300" style="border: 3px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Batman GIF">
 </div>
 
 ---------------------------------------------------------

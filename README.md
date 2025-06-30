@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>👋 ¡Hola! Soy [Tu Nombre]</h3>
+      
       <ul>
         <li>🌱 DevOps especializado en AWS, Kubernetes, CI/CD y Terraform</li>
         <li>⚡ Conocimientos en infraestructura escalable y automatización cloud</li>

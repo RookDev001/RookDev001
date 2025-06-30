@@ -1,6 +1,8 @@
 ### 👋 Hola, Soy Yerko | Hi, mi name is Yerko.
    DevOps con 3 años de experiencia implementando soluciones escalables en AWS, Kubernetes y Terraform. Especializado en automatización de CI/CD con Jenkins y GitHub Actions, y gestión de infraestructura como código. Experto en despliegues seguros, monitoreo con Prometheus/Grafana y optimización de pipelines. Con sólidos conocimientos en administración de servidores Linux (Red Hat/Debian) y contenedores Docker.
 
+   DevOps specialist with three years of experience implementing scalable solutions on AWS, Kubernetes, and Terraform. Specialized in CI/CD automation with Jenkins and GitHub Actions, and infrastructure-as-code management. Expert in secure deployments, monitoring with Prometheus/Grafana, and pipeline optimization. With solid knowledge of Linux server administration (Red Hat/Debian) and Docker containers.
+
 <table>
   <tr>
     <td width="60%" valign="center">

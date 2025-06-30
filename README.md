@@ -5,12 +5,13 @@
 - ⚡ Conocimientos en infraestructura escalable y automatización cloud. 
 - 🔭 Enfoque en implementar arquitecturas resilientess y despliegues eficientes.
 
+<div>
+<img align='right' src="https://www.lovethispic.com/uploaded_images/104877-Batman-Robin-Drinking-Coffee.gif?1" width="300" height="270">	
+</div>
+
 ---------------------------------------------------------
 
 **HABILIDADES**.
-
-<img align='right' src="https://www.lovethispic.com/uploaded_images/104877-Batman-Robin-Drinking-Coffee.gif?1" width="300" height="270">
-
 
 ------------------------------------------------------
 

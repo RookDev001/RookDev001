@@ -1,10 +1,9 @@
 ### 👋 Hola, Soy Yerko | Hi, mi name is Yerko.
-   Desarrollador Full Stack con 3 años de experiencia creando soluciones escalables en Laravel, PHP y TypeScript. Manejo frameworks como React, Angular y Node.js, y bases de datos MySQL, SQL Server y PostgreSQL. Experto en integraciones API REST y ERP para eCommerce. Uso Docker para despliegue eficiente y Git/GitHub para control de versiones. Con sólidos conocimientos en Linux (Red Hat/Debian) para optimización de servidores.
+   DevOps con 3 años de experiencia implementando soluciones escalables en AWS, Kubernetes y Terraform. Especializado en automatización de CI/CD con Jenkins y GitHub Actions, y gestión de infraestructura como código. Experto en despliegues seguros, monitoreo con Prometheus/Grafana y optimización de pipelines. Con sólidos conocimientos en administración de servidores Linux (Red Hat/Debian) y contenedores Docker.
 
-
-- 🌱 Desarrollador Full Stack especializado en Laravel (PHP), React.js, Docker y Tailwind CSS
-- ⚡ Conocimientos en diversos lenguajes de programación
-- 🔭 Tiendo a usar React.js y Angular para desarrollar interfaces modernas y eficientes.
+- 🌱 DevOps especializado en AWS, Kubernetes, CI/CD y Terraform
+- ⚡ Conocimientos en infraestructura escalable y automatización cloud. 
+- 🔭 Enfoque en implementar arquitecturas resilientess y despliegues eficientes.
 
 ---------------------------------------------------------
 
@@ -12,22 +11,6 @@
 
 <img align='right' src="https://www.lovethispic.com/uploaded_images/104877-Batman-Robin-Drinking-Coffee.gif?1" width="300" height="270">
 
-
-```javascript
-const yerko = {
-    pronouns: "He",
-    askMeAbout: ["Laravel", "React.js", "Angular"],
-    technologies: {
-        frontEnd: {
-            js: ["React.js", "Angular"],
-            css: ["Angular Material", "bootstrap", "TailWind CSS"]
-        },
-        backEnd: ["Laravel", "PHP"],
-        databases: ["Sql Server", "MySql", "PostgreSQL", "Oracle"],
-	others: ["Next.js", "TypeScript", "Inertia.js", "Vite"]
-    }
-};
-```
 
 ------------------------------------------------------
 
